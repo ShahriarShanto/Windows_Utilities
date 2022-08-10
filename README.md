@@ -5,7 +5,7 @@ First, this command will **check the current drive for errors**:
     chkdsk /scan
 This command will check the **current drive for errors, check for bad sectors, and try to repair them**:
 
-     chkdsk /scan /R
+    chkdsk /scan /R
 
 This command will **check current Windows Image integrity**:
 
